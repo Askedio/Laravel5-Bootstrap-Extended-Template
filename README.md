@@ -5,7 +5,7 @@ https://github.com/IronSummitMedia/startbootstrap-sb-admin-2
 # How-to Use
 * Download zip
 * Extract into your laravel project
-* Modify browse to resources/views
+* Browse to resources/views
 
 ## welcome.blade.php
 In this view you will see all the options you have to extend the master template.
