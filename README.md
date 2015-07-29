@@ -2,6 +2,8 @@
 An easily extendable Bootstrap 3 Template for Laravel 5.1, based on SB Admin 2
 https://github.com/IronSummitMedia/startbootstrap-sb-admin-2
 
+![Example](http://i.imgur.com/B5s7VX8.png)
+
 # How-to Use
 * Download zip
 * Extract into your laravel project
